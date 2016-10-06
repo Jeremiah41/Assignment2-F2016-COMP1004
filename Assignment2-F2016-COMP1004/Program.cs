@@ -16,7 +16,7 @@ namespace Assignment2_F2016_COMP1004
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new CarServiceForm());
         }
     }
 }
